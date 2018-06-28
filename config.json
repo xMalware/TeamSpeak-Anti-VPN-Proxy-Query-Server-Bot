@@ -1,0 +1,12 @@
+{
+  "hostname": "Set your TeamSpeak hostname/IP",
+  "queryPort": 10011,
+  "queryUsername": "serveradmin",
+  "queryPassword": "Set your password",
+  "virtualServerId": 1,
+  "nick": "MyTest",
+  "ipDetectorApiKey": "Set your IPDetector API Key (See the readme file)",
+  "banIdentity": false,
+  "banIp": true,
+  "banReason": "Set your ban reason (See the readme file)"
+}
