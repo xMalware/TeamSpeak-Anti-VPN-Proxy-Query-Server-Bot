@@ -20,3 +20,7 @@ The free offer can handle up to 30 requests per minute and may be sufficient for
 - **banIdentity** : Ban TeamSpeak identity of the user who connects to the TeamSpeak server (default: false)
 - **banIp** : Ban TeamSpeak IP of the user who connects to the TeamSpeak server (default: true)
 - **banReason** : The ban reason
+
+# Detect VPN Proxy API
+
+I use an official Detect VPN and Proxy API check it out : https://ipwarner.com 
